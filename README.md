@@ -40,7 +40,7 @@ Publish the website in the given URL.
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <!-- Main Page Container with Background -->
+  
   <div class="index-page">
     <header>
       <h1>Little Lemon</h1>
@@ -52,14 +52,14 @@ Publish the website in the given URL.
       </nav>
     </header>
 
-    <!-- Banner Section -->
+   
     <div class="banner">
       <h2>Welcome to Little Lemon!</h2>
       <p>Discover the freshest flavors and unique dishes crafted with passion.</p>
       <p>Enjoy 30% Off This Weekend on selected items!</p>
     </div>
 
-    <!-- Main Content Area -->
+   
     <div class="main-content">
       <div class="content-box">
         <h3>Our New Menu</h3>
